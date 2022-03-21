@@ -1,0 +1,2 @@
+# Bank_Marketing
+The data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The goal of the bank telemarketing campaign is to sell long-term deposits. Within a campaign, the human agents execute phone calls to a list of clients to sell the deposit (outbound) or, if meanwhile, the client calls the contact center for any other reason, he is asked to subscribe to the deposit (inbound). Thus, the result is a binary unsuccessful or successful contact.
